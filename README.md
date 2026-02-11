@@ -48,19 +48,11 @@ Focused on Software Development, Web Technology, and Problem Solving.
 
 ### 🌐 Portfolio Website
 Personal website showcasing my projects and skills.  
-🔗 https://github.com/Shevanka/Portfolio
+🔗 https://shevanka.github.io/Portfolio/
 
 ### 🗂 Academic Project
 Course-based project focusing on system implementation.  
 🔗 https://github.com/Shevanka/FinalProjectAndroidDev
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shevanka&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shevanka&layout=compact)
 
 ---
 
