@@ -1,14 +1,14 @@
 # Hi, I'm Shevanka 👋
 
-Undergraduate Applied Informatics Student  
+Undergraduate Informatics Engineering Student at Electronic Engineering Polytechnic Institute of Surabaya
 Focused on Software Development, Web Technology, and Problem Solving.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Applied Informatics Student
-- 💻 Interested in Web Development & Backend Systems
+- 🎓 Applied Informatics Engineering Student
+- 💻 Interested in Full Stack & Mobile
 - 📚 Currently improving: System Design & Clean Code
 - 🔍 Passionate about building structured and scalable projects
 
@@ -17,10 +17,10 @@ Focused on Software Development, Web Technology, and Problem Solving.
 ## 🛠 Tech Stack
 
 **Languages**
-- JavaScript
-- PHP
+- C
+- Dart
+- Kotlin
 - Python
-- SQL
 
 **Frontend**
 - HTML
@@ -29,13 +29,12 @@ Focused on Software Development, Web Technology, and Problem Solving.
 - React (Learning)
 
 **Backend**
-- Node.js
-- Express
-- Laravel
+- Node.js (Learning)
+- Laravel (Learning)
 
 **Database**
-- MySQL
-- PostgreSQL
+- MySQL (Learning)
+- PostgreSQL (Learning)
 
 **Tools**
 - Git
